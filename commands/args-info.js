@@ -2,11 +2,11 @@ module.exports = {
   name: 'args-info',
   description: 'Returns the arguments from a message, if any',
   args: true,
-  execute(message, args) {
+  execute (message, args) {
     if (args[0] === 'foo') {
-      return message.channel.send('bar');
+      return message.channel.send('bar')
     }
-    message.channel.send(`Arguments: ${args}\nArguments length: ${args.length}`);
-    }
+    message.channel.send(`Arguments: ${args}\nArguments length: ${args.length}`)
+  }
 
 }
