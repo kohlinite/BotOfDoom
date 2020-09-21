@@ -1,0 +1,22 @@
+difficulty,name,description,special
+very easy,100,words,false
+very easy,125,words,false
+very easy,150,words,false
+very easy,175,words,false
+very easy,200,words,false
+very easy,225,words,false
+very easy,250,words,false
+very easy,275,words,false
+very easy,300,words,false
+very easy,325,words,false
+very easy,350,words,false
+very easy,375,words,false
+very easy,400,words,false
+very easy,Monarchy,"ML's Choice",true
+very easy,Colony,"Stranger's Choice",true
+very easy,Democracy,"Group's Choice",true
+very easy,Unlucky,"Draw twice, take the more difficult",true
+very easy,Lucky,"Draw twice, take your pick",true
+very easy,Time Warp,"Just a jump to the left...\nDraw again",true
+very easy,Ditto,"Use previous draw",true
+very easy,The Chase,"Follow the leader",true
