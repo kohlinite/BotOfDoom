@@ -1,0 +1,728 @@
+[
+ {
+   "difficulty": "Very Easy",
+   "name": "100",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "125",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "150",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "175",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "200",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "225",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "250",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "275",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "300",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "325",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "350",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "375",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "400",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Monarchy",
+   "description": "ML's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Colony",
+   "description": "Stranger's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Democracy",
+   "description": "Group's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Unlucky",
+   "description": "Draw twice, take the more difficult",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Lucky",
+   "description": "Draw twice, take your choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Time Warp",
+   "description": "Just a jump to the left... and draw again",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "Ditto",
+   "description": "See previous draw",
+   "special": true
+ },
+ {
+   "difficulty": "Very Easy",
+   "name": "The Chase",
+   "description": "Follow the leader",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "200",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "225",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "250",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "275",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "300",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "325",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "350",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "375",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "400",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "425",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "450",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "475",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "500",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "525",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Monarchy",
+   "description": "ML's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Colony",
+   "description": "Stranger's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Democracy",
+   "description": "Group's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Unlucky",
+   "description": "Draw twice, take the more difficult",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Lucky",
+   "description": "Draw twice, take your choice",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Time Warp",
+   "description": "Just a jump to the left... and draw again",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "Ditto",
+   "description": "See previous draw",
+   "special": true
+ },
+ {
+   "difficulty": "Easy",
+   "name": "The Chase",
+   "description": "Follow the leader",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "500",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "525",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "550",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "575",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "600",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "625",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "650",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "675",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "700",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "725",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "750",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "775",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "800",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "825",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "850",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Monarchy",
+   "description": "ML's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Colony",
+   "description": "Stranger's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Democracy",
+   "description": "Group's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Unlucky",
+   "description": "Draw twice, take the more difficult",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Lucky",
+   "description": "Draw twice, take your choice",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Time Warp",
+   "description": "Just a jump to the left... and draw again",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "Ditto",
+   "description": "See previous draw",
+   "special": true
+ },
+ {
+   "difficulty": "Medium",
+   "name": "The Chase",
+   "description": "Follow the leader",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "800",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "825",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "850",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "875",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "900",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "925",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "950",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "975",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1000",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1025",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1050",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1075",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1100",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1125",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1150",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1175",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1200",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1225",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "1250",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Monarchy",
+   "description": "ML's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Colony",
+   "description": "Stranger's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Democracy",
+   "description": "Group's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Unlucky",
+   "description": "Draw twice, take the more difficult",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Lucky",
+   "description": "Draw twice, take your choice",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Time Warp",
+   "description": "Just a jump to the left... and draw again",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "Ditto",
+   "description": "See previous draw",
+   "special": true
+ },
+ {
+   "difficulty": "Hard",
+   "name": "The Chase",
+   "description": "Follow the leader",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1175",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1200",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1225",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1250",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1275",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1300",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1325",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1350",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1375",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1400",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1425",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1450",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1475",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1500",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1525",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1550",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1575",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1600",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1625",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "1650",
+   "description": "words",
+   "special": false
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Monarchy",
+   "description": "ML's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Colony",
+   "description": "Stranger's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Democracy",
+   "description": "Group's Choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Unlucky",
+   "description": "Draw twice, take the more difficult",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Lucky",
+   "description": "Draw twice, take your choice",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Time Warp",
+   "description": "Just a jump to the left... and draw again",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "Ditto",
+   "description": "See previous draw",
+   "special": true
+ },
+ {
+   "difficulty": "Very Hard",
+   "name": "The Chase",
+   "description": "Follow the leader",
+   "special": true
+ }
+]

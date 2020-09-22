@@ -1,22 +1,122 @@
 difficulty,name,description,special
-very easy,100,words,false
-very easy,125,words,false
-very easy,150,words,false
-very easy,175,words,false
-very easy,200,words,false
-very easy,225,words,false
-very easy,250,words,false
-very easy,275,words,false
-very easy,300,words,false
-very easy,325,words,false
-very easy,350,words,false
-very easy,375,words,false
-very easy,400,words,false
-very easy,Monarchy,"ML's Choice",true
-very easy,Colony,"Stranger's Choice",true
-very easy,Democracy,"Group's Choice",true
-very easy,Unlucky,"Draw twice, take the more difficult",true
-very easy,Lucky,"Draw twice, take your pick",true
-very easy,Time Warp,"Just a jump to the left...\nDraw again",true
-very easy,Ditto,"Use previous draw",true
-very easy,The Chase,"Follow the leader",true
+very easy,100,words,no
+very easy,125,words,no
+very easy,150,words,no
+very easy,175,words,no
+very easy,200,words,no
+very easy,225,words,no
+very easy,250,words,no
+very easy,275,words,no
+very easy,300,words,no
+very easy,325,words,no
+very easy,350,words,no
+very easy,375,words,no
+very easy,400,words,no
+very easy,Monarchy,ML's Choice,yes
+very easy,Colony,Stranger's Choice,yes
+very easy,Democracy,Group's Choice,yes
+very easy,Unlucky,"Draw twice, take the more difficult",yes
+very easy,Lucky,"Draw twice, take your choice",yes
+very easy,Time Warp,Just a jump to the left... and draw again,yes
+very easy,Ditto,See previous draw,yes
+very easy,The Chase,Follow the leader,yes
+easy,200,words,no
+easy,225,words,no
+easy,250,words,no
+easy,275,words,no
+easy,300,words,no
+easy,325,words,no
+easy,350,words,no
+easy,375,words,no
+easy,400,words,no
+easy,425,words,no
+easy,450,words,no
+easy,475,words,no
+easy,500,words,no
+easy,525,words,no
+easy,Monarchy,ML's Choice,yes
+easy,Colony,Stranger's Choice,yes
+easy,Democracy,Group's Choice,yes
+easy,Unlucky,"Draw twice, take the more difficult",yes
+easy,Lucky,"Draw twice, take your choice",yes
+easy,Time Warp,Just a jump to the left... and draw again,yes
+easy,Ditto,See previous draw,yes
+easy,The Chase,Follow the leader,yes
+medium,500,words,no
+medium,525,words,no
+medium,550,words,no
+medium,575,words,no
+medium,600,words,no
+medium,625,words,no
+medium,650,words,no
+medium,675,words,no
+medium,700,words,no
+medium,725,words,no
+medium,750,words,no
+medium,775,words,no
+medium,800,words,no
+medium,825,words,no
+medium,850,words,no
+medium,Monarchy,ML's Choice,yes
+medium,Colony,Stranger's Choice,yes
+medium,Democracy,Group's Choice,yes
+medium,Unlucky,"Draw twice, take the more difficult",yes
+medium,Lucky,"Draw twice, take your choice",yes
+medium,Time Warp,Just a jump to the left... and draw again,yes
+medium,Ditto,See previous draw,yes
+medium,The Chase,Follow the leader,yes
+hard,800,words,no
+hard,825,words,no
+hard,850,words,no
+hard,875,words,no
+hard,900,words,no
+hard,925,words,no
+hard,950,words,no
+hard,975,words,no
+hard,1000,words,no
+hard,1025,words,no
+hard,1050,words,no
+hard,1075,words,no
+hard,1100,words,no
+hard,1125,words,no
+hard,1150,words,no
+hard,1175,words,no
+hard,1200,words,no
+hard,1225,words,no
+hard,1250,words,no
+hard,Monarchy,ML's Choice,yes
+hard,Colony,Stranger's Choice,yes
+hard,Democracy,Group's Choice,yes
+hard,Unlucky,"Draw twice, take the more difficult",yes
+hard,Lucky,"Draw twice, take your choice",yes
+hard,Time Warp,Just a jump to the left... and draw again,yes
+hard,Ditto,See previous draw,yes
+hard,The Chase,Follow the leader,yes
+very hard,1175,words,no
+very hard,1200,words,no
+very hard,1225,words,no
+very hard,1250,words,no
+very hard,1275,words,no
+very hard,1300,words,no
+very hard,1325,words,no
+very hard,1350,words,no
+very hard,1375,words,no
+very hard,1400,words,no
+very hard,1425,words,no
+very hard,1450,words,no
+very hard,1475,words,no
+very hard,1500,words,no
+very hard,1525,words,no
+very hard,1550,words,no
+very hard,1575,words,no
+very hard,1600,words,no
+very hard,1625,words,no
+very hard,1650,words,no
+very hard,Monarchy,ML's Choice,yes
+very hard,Colony,Stranger's Choice,yes
+very hard,Democracy,Group's Choice,yes
+very hard,Unlucky,"Draw twice, take the more difficult",yes
+very hard,Lucky,"Draw twice, take your choice",yes
+very hard,Time Warp,Just a jump to the left... and draw again,yes
+very hard,Ditto,See previous draw,yes
+very hard,The Chase,Follow the leader,yes

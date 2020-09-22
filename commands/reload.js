@@ -2,6 +2,10 @@ module.exports = {
   name: 'reload',
   description: 'Reloads a command',
   execute (message, args) {
+    if (!args.length) {
+      message.channel.send('You must specify a command to reload!')
+      return
+    }
     const commandName = args[0].toLowerCase()
     const command = message.client.commands.get(commandName) ||
       message.client.commands.find(cmd => cmd.aliases &&
