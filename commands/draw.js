@@ -23,8 +23,8 @@ sticks.vh_no = sticks.vh.filter(n => !n.special)
 
 // Testing command for box of doom.
 module.exports = {
-  name: '`box-test`',
-  aliases: ['`draw`', '`stick`'],
+  name: 'draw',
+  aliases: ['box-test', 'stick'],
   description: 'Draw a stick from the virtual Box of Doom!  Requires a specified difficulty: `ve`, `e`, `m`, `h`, `vh`, or `all`.  Optionally allows you request either only special sticks (`yes`), or no special sticks (`no`).',
   usage: '<difficulty: `ve`|`e`|`m`|`h`|`vh`|`all`> [`yes`|`no`]',
   execute (message, args) {
