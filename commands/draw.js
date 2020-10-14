@@ -13,13 +13,14 @@ sticks.m = sticks.all.filter(n => n.difficulty === 'Medium')
 sticks.h = sticks.all.filter(n => n.difficulty === 'Hard')
 sticks.vh = sticks.all.filter(n => n.difficulty === 'Very Hard')
 // Create a "special" array
-sticks.sp = sticks.ve.filter(n => n.special)
+sticks.sp = sticks.all.filter(n => n.special)
 // Create versions of the difficulty arrays without the special sticks
 sticks.ve_no = sticks.ve.filter(n => !n.special)
 sticks.e_no = sticks.e.filter(n => !n.special)
 sticks.m_no = sticks.m.filter(n => !n.special)
 sticks.h_no = sticks.h.filter(n => !n.special)
 sticks.vh_no = sticks.vh.filter(n => !n.special)
+sticks.all_no = sticks.all.filter(n => !n.special)
 
 // Testing command for box of doom.
 module.exports = {
@@ -48,7 +49,7 @@ module.exports = {
     }
     // Modify the difficulty argument to pull a non-special stick
     if (args[1] === 'no') {
-      args[0].concat('_no')
+      args[0] = args[0].concat('_no')
     }
     // Special-only draw requested
     if (args[1] === 'yes') {
@@ -62,11 +63,15 @@ module.exports = {
     // Access specific difficulty array
     const draw = sticks[args[0]][Math.floor(Math.random() * sticks[args[0]].length)]
     console.log(draw)
-    message.channel.send(`Drawing from the ${draw.difficulty} sticks...`)
-    if (draw.special) {
-      message.channel.send(`🎉 Special! 🎉\nYou have drawn ${draw.name}: ${draw.description}.`)
+    if (args[0] === 'all' || args[0] === 'all_no') {
+      message.channel.send('Drawing from all sticks...')
     } else {
-      message.channel.send(`You have drawn ${draw.name} words.`)
+      message.channel.send(`Drawing from the ${draw.difficulty} sticks...`)
+    }
+    if (draw.special) {
+      message.channel.send(`🎉 Special! 🎉\nYou have drawn ${draw.difficulty}: ${draw.name}: ${draw.description}.`)
+    } else {
+      message.channel.send(`You have drawn ${draw.difficulty}: ${draw.name} words.`)
     }
   }
 }
