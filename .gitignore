@@ -114,6 +114,5 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 ### Discord.js
-config.json
 .eslintrc.json
 index.js.bak
