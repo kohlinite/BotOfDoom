@@ -38,14 +38,10 @@ module.exports = {
     }
     // Find and return requested range
     const requestedSticks = sticks[args[0]]
-    const values = requestedSticks
-      .map(a => Number.parseInt(a))
-      .filter(n => !Number.isNaN(n))
+    const values = requestedSticks.map(a => Number.parseInt(a)).filter(n => !Number.isNaN(n))
     console.log(values)
-    const min = values
-      .reduce((a, b) => Math.min(a, b))
-    const max = values
-      .reduce((a, b) => Math.max(a, b))
+    const min = values.reduce((a, b) => Math.min(a, b))
+    const max = values.reduce((a, b) => Math.max(a, b))
     const reply = `Difficulty ${requestedSticks.difficulty} has a range from ${min} to ${max}.`
     console.log('Range requested')
     console.log(reply)
