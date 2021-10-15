@@ -15,7 +15,7 @@ sticks.vh = sticks.all.filter(n => n.difficulty === 'Very Hard').filter(n => !n.
 // Command properties
 module.exports = {
   name: 'level',
-  aliases: 'range',
+  aliases: ['range'],
   description: 'Returns the range of word counts for a provided difficulty.',
   usage: '<difficulty: `ve`|`e`|`m`|`h`|`vh`|`all`>',
   execute (message, args) {
