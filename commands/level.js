@@ -38,9 +38,14 @@ module.exports = {
     }
     // Find and return requested range
     const requestedSticks = sticks[args[0]]
-    const reply = `Difficulty ${requestedSticks.difficulty} has a range from ${requestedSticks[0].name} to ${requestedSticks[requestedSticks.length - 1]}.`
-    console.log('Range requested')
-    console.log(reply)
-    message.channel.send(reply)
+    const values = requestedSticks.map(a => Number.parseInt(a.name))
+    const filteredValues = values.filter(n => !Number.isNaN(n))
+    const min = filteredValues.reduce((a, b) => Math.min(a, b))
+    const max = filteredValues.reduce((a, b) => Math.max(a, b))
+    if (args[0] === 'all') {
+      message.channel.send(`Difficulty All has a range from ${min} to ${max}.`)
+    } else {
+      message.channel.send(`Difficulty ${requestedSticks[0].difficulty} has a range from ${min} to ${max}.`)
+    }
   }
 }
