@@ -44,7 +44,7 @@ module.exports = {
     console.log(filteredValues)
     const min = filteredValues.reduce((a, b) => Math.min(a, b))
     const max = filteredValues.reduce((a, b) => Math.max(a, b))
-    const reply = `Difficulty ${requestedSticks.difficulty} has a range from ${min} to ${max}.`
+    const reply = `Difficulty ${requestedSticks[0].difficulty} has a range from ${min} to ${max}.`
     console.log('Range requested')
     console.log(reply)
     message.channel.send(reply)
