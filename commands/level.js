@@ -38,7 +38,10 @@ module.exports = {
     }
     // Find and return requested range
     const requestedSticks = sticks[args[0]]
-    const reply = `Difficulty ${requestedSticks.difficulty} has a range from ${requestedSticks[0].name} to ${requestedSticks[requestedSticks.length - 1]}.`
+    const values = requestedSticks.map(a => Number.parseInt(a))
+    const min = values.reduce((a, b) => Math.min(a, b))
+    const max = values.reduce((a, b) => Math.max(a, b))
+    const reply = `Difficulty ${requestedSticks.difficulty} has a range from ${min} to ${max}.`
     console.log('Range requested')
     console.log(reply)
     message.channel.send(reply)
