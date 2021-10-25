@@ -69,9 +69,9 @@ module.exports = {
       message.channel.send(`Drawing from the ${draw.difficulty} sticks...`)
     }
     if (draw.special) {
-      message.channel.send(`🎉 Special! 🎉\n${message.author.tag} has drawn ${draw.difficulty}: ${draw.name}: ${draw.description}.`)
+      message.channel.send(`🎉 Special! 🎉\n@${message.author.tag} has drawn ${draw.difficulty}: ${draw.name}: ${draw.description}.`)
     } else {
-      message.channel.send(`${message.author.tag} has drawn ${draw.difficulty}: ${draw.name} words.`)
+      message.channel.send(`@${message.author.tag} has drawn ${draw.difficulty}: ${draw.name} words.`)
     }
   }
 }
