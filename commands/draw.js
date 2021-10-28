@@ -57,7 +57,7 @@ module.exports = {
       console.log('Special draw!')
       console.log(draw)
       message.channel.send('🎉 🎊 Drawing a special stick! 🎊 🎉')
-      message.channel.send(`You have drawn ${draw.name}: ${draw.description}.`)
+      message.channel.send(`<@!${message.author.id}> has drawn ${draw.name}: ${draw.description}.`)
       return
     }
     // Access specific difficulty array
