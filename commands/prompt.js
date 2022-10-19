@@ -11,7 +11,7 @@ const prompts = {}
 prompts.all = require('../resources/prompts.json')
 // Create filtered lists
 prompts.sfw = prompts.all.filter(n => !n.nsfw)
-console.log(prompts.sfw.length)
+console.log("Total SFW prompts: "prompts.sfw.length)
 // prompts.nsfw = prompts.all.filter(n => n.nsfw)
 
 // Old-style bot command
@@ -25,8 +25,8 @@ module.exports = {
         // Check argument validity
 
         // Randomly select a prompt
-        const draw = prompts['sfw'][Math.floor(Math.random() * prompts['sfw'].length)]
-        console.log('Prompt selected: ' + draw)
+        const draw = prompts.sfw[Math.floor(Math.random() * prompts.sfw.length)]
+        console.log('Prompt selected: ' + draw.prompt)
         message.channel.send(`<@!${message.author.id}> has requested a prompt: ${draw.prompt} `)
         return
     }
