@@ -1,14 +1,3334 @@
 [
   {
+    "prompt": "Don’t make out with my phone.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He pre-mugged you.",
+    "nsfw": "FALSE"
+  },
+  {
     "prompt": "Good morning world! Your little ray of sarcastic sunshine has arrived.",
-    "nsfw": false
+    "nsfw": "FALSE"
   },
   {
     "prompt": "Excuse me a moment while I become one with my cream puff.",
-    "nsfw": false
+    "nsfw": "FALSE"
   },
   {
-    "prompt": "I always thought NSFW just meant inappropriate for the office.  Apparently, inciting a socialist revolution is considered NSFW.",
-    "nsfw": false
+    "prompt": "It’s important to walk your (boyfriend/girlfriend/spouse/partner/etc).",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Ballistic slushie",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Llamas!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I was moming her so hard. I momed the heck out of her.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My duck is only metaphorical.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My dick is only metaphorical.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "That was my ear.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I know it’s been a good session when we broke [character name] multiple times.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I forgot about the zombie birds.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "This is my emotional support puma.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I have shower thoughts that don’t seem to leave the shower.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m the world’s most cheerful pessimist. We’re probably all going to die, but why angst about it?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’d already called 911 on someone earlier that evening.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They’re amazing. They’re trolls for democracy.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Can I make an arcana check if I’m a tree?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I have rememberers.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Wait, daddy bush or little bush?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The World is full. Queue to enter, 17.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Apparently this is a two-dancer party.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You gotta resist the crazy guy OR #gottoresistthecrazyguy",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We had depressed white girl therapy.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Who is this chick and how have I never gone on this outing?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I would like four teddy bear skins, please.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "No, don’t use the front of your tongue!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I lazered him earlier.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Back to things serial killers say",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I feel like that’s something a serial killer would say",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Unicorn whip",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m so happy I tried to kill a fairy!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That’s the moment my phone decided to voice to text our conversation",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I was trying to figure out why my computer was telling me achievement unlocked, ‘staples acquired.’”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The duck has startled a thistle!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You are one with the wall.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Is it in your cushions?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m taking you into my closet now so I can…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "At least that you can craft in your pockets.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It tastes good if you set it on fire.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Character 1: “You’ve lost your marbles.” Character 2’s response: “My marbles are secure, sir, ‘tis you who are crazy.” (quote from FF VII Remake)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am going to rebuild my dog to be a werewolf instead though.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You two are both such soft and squishy marshmallows squished into a s’more of love.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I’m suggesting that the puppy is an addict, so…”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My brain is giving me the silent treatment.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We went to karaoke every Tuesday after fingerprint night for…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Yours would be inflamed too if I just pulled a four inch blade of grass out of your nose that was practically touching your brain.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dial it back about twenty percent…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The world is currently full. Eleven in queue.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I miss randomly eating bread.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Light armor with 50% increased resistance to disease.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Macaron ice cream sandwiches",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t let your guard down around carrots!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t die for your imaginary friend.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So, like, next year, we’re going to do this.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I have been sexually harassed by a lemur.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Hedgehog cheese goblin",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You know you can chew your tail off and it will grow right back, right?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think there’s a technical name for that, but there may not be.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“And a bunch of people died there, which of course helps.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Fight me, ghosts!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Bunny-man bridge",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I always assumed that’s what ghosts smelled like...piss.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Best Dragons 15/10 would snuggle.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dungeons are always better with friends!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dance for the flying Brussel sprouts!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m glad you don’t have a tank near your house this week.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Have you ever been doing gels and forget and they go off?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I wonder what’s in the cat wine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m going to go get another drink. When I get back, I expect a commitment.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We just need to get this chainsaw down from the ceiling.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Ooh! It’s the eldest Brussel sprout!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "84 ingots of mercury",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s just the brain weasels lying to me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Are we not friends?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I know what you look like now, so…”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m looking for a bush.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A higher level of Cheeze-It. [OR] A higher level of cheese it.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We just adopted a breeding pair of South American hamsters.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’d have gotten to it already, but the world keeps burning.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The world’s still on fire.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Incorporate a fish in a tank dragging around a floating thermometer by the suction cup.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Incorporate a small dog (about cat sized) jumping and stealing food from a person on the way to their mouth (picture a dog superman flying right past the face snatching food on the way).",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Waiting on puns and needles.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Ninjas making snowcones.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That’s a valuable hole.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Usually you can’t blow up a weather, but in this case it works. (Quote or paraphrase from the Sci Show Tangents Podcast, spoken by Hank Greene)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So becoming a ninja was the answer.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Carrots broke the internet.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I feel like I’m being a loud ninja.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Are krakens magnetic? (quote from Scott Manly’s Interstellar series)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I managed to belly flop this through the atmosphere at many times the speed of sound. (quote Scott Manly’s Interstellar series)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A raw carrot is still a carrot.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The earth without art is just “eh”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "the ability to respond to lost ducks through my window (Quoted misread by NaNo ML Kyo from Las Vegas)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My porch is definitely getting wet if it’s raining in that direction.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "No fish netting was evident around the balls.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I am glad there is a forum for crazy people like you.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My cat just ran into my butt.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t put your kitchen in the fridge, because then your workers get cold and grumpy.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Invaders are great for feeding to your dog.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Once the doggies have a taste for man-flesh, it’s all over.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Queer fantasy Jesus",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My party members have eaten all of my potions",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Another person is being hunted by a rhinoceros.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There’s already blood on the floor.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Assisting with queue defeating is important.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Once character says: “As long as I stay in my ley lines, I can get a little more out of it.” Response from another character: “Yes, but you can’t get a whole samurai out of it.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So many iguanas.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I got fairy on everyone!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“No! Professor Mittens!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I’m glad I don’t have those.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I became goth by default, because backstage in theater you have to wear black.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Oh, this? This is a disguise.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I gothed out for one day in my life.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Why is all my work in this wardrobe and not on my body?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Wear it to Tesco.” [substitute whatever chain grocery store or genre equivalent in for Tesco]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“There should be more wedding dresses in the streets.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“You can wear a cake!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A wild [character name] appears in her natural habitat.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s a massive mystery for all and sundry.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I speak memes!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Vintage style, not vintage values.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "...they say, talking to an alien.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What is your why?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Do your arms get tired holding up a sign all day?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "People loved it? Great. I’ve got a waistcoat to finish.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I mean what would we do if the couch was delivered and there was a child inside?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The [country name here] is waiting for you to unlock it.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I just got a riot of travel help.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Art imitates life. You have to have one.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Magnets. The secret is magnets.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You can run free small ones.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You have been released from your nocturnal confinement.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Tour de France Lance Armstrong cosplayers",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The joke was…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I could summon thunderstorms.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Scorpions? Why are they bringing me scorpions?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I feel like you should have a move like “lich slap.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It was the happiness I needed in my life today.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We decided at a particular point that the Krispy Kreme was a better option.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They are bathed in my tears.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So if I increase my reputation with the bath…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "People be stabbin’ my friends yo.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Wait. That’s something I never thought I’d hear [character] say.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They are properly charged to repel themselves out of the outlets.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why don’t we search wealth of snakes?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m definitely into consensual raiding.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t let your inability to fix everything stop you from fixing something.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Picture prompt? The can pop top image Errant Ruminant said I could use.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "Our lumps of plastic truly deserved to win.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What point is plot except for torture?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m excited to find out.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Just don’t. Just don’t speak.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He’s just been kidnapped by the serial killer’s daughter and they found the vampire hunter.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Crouching Tiger, Hidden Jackass",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "Because you weren’t steady enough to bike home?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Said to a small child: “Thanks for the life advice.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A hundred maple logs. Check.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "princess of knitting tentacles",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s either a [noun] or a [noun], I saw that backflip!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There was cake. It was made of unicorns.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There’s no gas or anything, so I have to burn the wood with fire.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“It was the order of the red wings!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Breakfast beer",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "In the before time",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I take great joy in the closet toilet.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I don’t want to be that close to my cat’s mouth.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The part that is currently on fire!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My excellent performing hunk of plastic.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If I was one of those people who could see sound and I came to work high on mushrooms one day. Your head would be a unicorn and when you spoke rainbows and butterflies and kittens would come out and they would speak to me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "edwardian lady does modern meme",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Farming with friends",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "His face was wide open.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I say odd things.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "No. I’m the one hanging with the pixies.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Nut marks, huh?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They got the what out of the where?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "As per usual, I will be the last to achieve full ponie status.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“If you’re still alive, there is more going right than wrong.” (Quote from Patty of Liberation Healing Arts)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s all based on people’s descriptions of themselves, and how reliable are those? (adapted from a WIRED article by Stephen Marche.)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why are your ears cold?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Have a dumpster fire story. I have actually seen one in real life.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We get a crow bar and break into the murder basement.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Somebody’s taking it all the ways.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I don’t think a dungeon would fit in your apartment.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The catfish people are way better than you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“What is up, home skillet biscuit?” (Quote from Kheldar_Lars)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I knit so I won’t kill people.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s not a hobby, it’s a post-apocalyptic life skill.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Pirate cloud",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The cat has joined the chat.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The house cuddles everything that happens in this family.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[character name], my [color] bundle of crowd-pleasing wonderment…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Is anything as fun as the fire ball?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Flame weeding",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“[character], do you want to see my baby tentacle monster?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Those monks are on fire.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Here, lizard, lizard.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Think of them as some snitch that wrongs ya.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "...and a very good reason to be a little off kilter the rest of the day",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It sounds like a swiss-army gun.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m not polite, I’m passive aggressive. [OR] [he/she/they] aren’t polite, [they/he/she]’re passive aggressive.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Is there a factory reset button for compassion???",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Can you put pants on the other bearded dragon?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "And then the wasps were dead and I had grilled chicken.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Things leak in both of your jobs",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We’ll have to wait for the apocalypse to be over before you teach me that skill for my apocalypse checklist.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Your job is schizophrenic",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I came for the monsters, I stayed for the gayness.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I just finished sewing an eye.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think in Russia they say \"two idiots, one thought.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Clearly, there are some warlocks whose pajamas have been stolen.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“My room still smells like wet pain.” (Quote courtesy of NaNO ML Distwist)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We are rescuing potatoes, said the giraffe.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m practicing clouds.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Murder Samuri",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s the tall English one, not the short Irish one.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why can’t you do cocain like a normal person?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Buy some meat, and make some balls!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The washer/dryer was a better roommate.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I barely remember those events because they were so small on the [character name] scale of disaster.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t touch my tail that way.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You can have a tiered friendship party.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Existential weird, I’m on board with this.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He seems mildly possessed.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you’re not sure that you’ve done enough, throw more things.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Who says it has to be rocks? Eggs, sticks, a squirrel!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s time to ingest chemicals and become human again.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“When you’re holding a bishop, everything looks like a knight.” [quote from the Shut Up & Sit Down Cairns video review] Response: “Does that mean the bishop is going to hit on the knight?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m definitely pulling for the romance of your zucchini flowers.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Zucchini bonzai.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“The best curly fries outside of Mother Arby’s.” [Paraphrase from Binging with Babish Pollos Hermanos episode, genre appropriate conversions of Arby’s are acceptable.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "vampire hamster",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Self-inflicted reading injury” (Quote from NaNo ML Kyo of Las Vegas)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m getting it back after three weeks, and it’s apparently still messed up, but I’m going to ride it anyway.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Baby alien penguins",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We had to shave him in three sessions to give him a break.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need mentorship in surgery",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s not the size of the balls, it’s the age and the anesthesia.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Hi, please look at my cartoon boyfriend.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t make me mom you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s cold in my apartment. I need more clothes.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The thing that I didn’t want to happen is happening.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You’ve got the cream for insulation.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What do you do if you are in a tunnel, your car is on fire, but it’s still drivable?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The equipment was removed from the cat. (Quote from The Technical Difficulties' Citation Needed season six.)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The butter incident.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Minor vehicular event.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Death by chocolate",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Explosion at a candy factory",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s sending god and science.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s bikers and hipsters.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "All the good receptors are gone.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I froze a few male flowers.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Magma creams",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Is that a Halloween candy?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don't look at me in that tone of voice, it smells a funny colour.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The body is off camera",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Kill the doppelganger",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The thing that lived in the window",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If they’re here on our dead end street, they’re lost.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“New romance is hard. Armageddon makes it worse.” (Quote or paraphrase from the Magnus Archives pdcast)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I came for the ghosts, I stayed for the gay",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Someone eats you out and then you eat them up and call it a day",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "I gotta go kidnap my character before bed",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "defying sleep and plot gravity. (Quote from Traveller_Blues during NaNo Global Write-In Crawl 2020)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The ocean is on fire",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Character 1 - “Why are there feet?” Character 2 - “Something has gone horribly.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The magic forest is fed up with your nonsense. Get out.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The place that does laptop necromancy apparently.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "One last glorious moment of touching books.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It looks kinda like a duck on fire.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t bite your brother.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s that type of time zone.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Cat of the keyboard, tell me your wisdom\" (Quote from NaNo User UninstallerX)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We’re going to hell today!\" [bonus points for character saying it in an excited tone]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I can get you a car. We can make that happen.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Just his interactions with other humans. Friend. I mean friend.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Vampire chicken drumsticks",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Are you taking the plants for a walk?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I can’t lava today.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Danger is your middle positivity.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I do have humans I can repurpose for this.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The urn of ashes is practically a character at this point.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "This is not an OSHA approved mining method.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“They’re violent action movies, you’d probably like them.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I can now say that I can hustle a novel.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My cocktail ladies are all looking at me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Include a rubber ducky. [bonus points if it’s on someone’s head]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My mouth was a gray cave.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He’s just a chill gargoyle.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Speaking of voting and cannibalism.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Mugs just appear in my life.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Include a character that compulsively sends out save the date notices for no reason.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Shame, like the appendix, has no use to a body.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Panda Dwarves",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So this is how you summon a [character’s name].",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We’re going to have to reboot the internet.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“What? You Rebooted the Internet?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I needed to get good at shoving.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I would like to stop pretending to be a drug dealer.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You are technically a legal drug dealer.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Anything in a high enough dose could kill you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You need to be emotionally prepared for some slippage. (Quote from Basics with Babish last-minute Thanksgiving episode in 2020)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You have so many more uses for your hoe now.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“We’re out of a shovel.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“But did you die?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Helpfully terrifying",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A good pirate jogs.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Lobsters are okay with cannibalism, it’s fine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "This is not a very scientific lobster cult.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The alien killed me so many times, but the robot killed me more.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dryer came free with housemate, so I can't complain.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He put out the geek signal.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think I need to call Alabama.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I don’t like reading the entrails while I’m cooking.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Villagers for days.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m probably going to get lost in the sea of squares anyway.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Spicy gifts are the best gifts.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am the eldest child of an eldest child",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“What genre is the this music?” Response: “Enthusiastic.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Like colors, if colors hated me” (Quote or paraphrase from The Magnus Archives podcast)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We’re in gold bottoms and an iron top.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "!quote add \"Babies are very delicious and nutritional\" - Rualar, 2021 (quote #174…)",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "My dad raised fresh water rays in our basement.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That would require putting on more clothes, it’s complicated.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I was trying to do a turkey baster thing with my ink syringe.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Do you know how awesome this would be as a serial killer? [bonus points if said with excitement, or with a knife in hand]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Did not die downtown on Wednesday. Home now. If I die, will be at home.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I want to carve out my heart with a rusty spoon and throw it in a blender.” [said by traveller19 1/22/21 in response to the Magnus Archives episode]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Pandora, you're drunk. Go home and sleep it off...\" [bonus points for a good follow up second half of sentence, and for it actually referring to Pandora or another music service] (Quote from NaNo user traveler19)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“What are you doing? That’s kidnapping?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Was the apocalypse always the goal?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Is your bedroom a high traffic area?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Oh, I’m on fire again.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why is there blue?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Even with that impact from one of the plants…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I think they were refinance papers. For all I know I sold my soul, but whatever.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Fitzy the blind one tried to kill Jesus earlier today… (from a longer quote by NaNo user gummybearlife)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“They used to pay me in stock options instead of money.” (quote from NaNo user zyphax)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They’re practicing plastic surgery on severed heads.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "May I offer you a banana in these trying times.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "This is my service werewolf.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You say that like you can’t murder your mint plant.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I know you like to eat your plants.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s a candy-coated glitter punch to the face.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Long haul space trucker.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Boss bitch and her men folk",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "As a professional host of brain worms.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s very exciting. I feel like a necromancer.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I might read it by accident because you never know what you’ll click on on [AO3]. [substitute apropriate/analagous website or genre equivalent)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Honey is bee vomit?” “Yes.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What did I do with that skull?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Viruses are our overlords, we should be afraid of them.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There are fourteen British actors, and I think David Tennent plays all of them.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My pizza has thoughts on Pluto.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you’re an apple licker, don’t read Tolkien, just don’t.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m not your thought police, but if I were…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My kids play Dora the Explorer on this computer, what the hell are you doing?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Internet enabled energy syphoning?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What madness is this?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I fell down a rabbit hole!” [bonus points if it’s said in an excited way]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He’s kinda disowned the family.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We’re going to have a cult ritual built around hide and go seek.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you enjoy faceless ghosts… [bonus points if followed by a recommendation, no matter how nonsensical or related]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You want to think very deeply. Like you kind of wish you were high.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Oh, you’re leaving. You were just starting to get interesting.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m practicing dark arts and crafts.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "She grows mana carrots for me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A post apocalyptic landscaper.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My hand slipped. I made cookies instead of muffins.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I googled “can you die from a loon” and apparently the answer is maybe.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Speaking of bird dick, that’s a very specific seque…",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "There’s a cork screw, and it’s a duck, and the corkscrew is coming out of the bottom of it.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I know Spanish. They punctuate there too.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Stab me please. I’m not going to look, but that doesn’t mean I’m not excited.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Thank you, Satan!” [bonus points if it’s funny]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I know we’re in a panorama and all that. [quote from LoonyLoomworks on Twitch]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Why are you microwaving a milkshake?”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Have a character put a milkshake in the microwave.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What the ghost?!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Having a blood red yard…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I could be your granny. Guys, put it away.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s weirdly delicious.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I’m going to be like those French bastards in Champagne. ‘Anything else is just sparklin pizza!’”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s like...if Scotland were located in Arizona…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What is it about a giant dragon that makes me drop my balls?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You have to live here too, so don’t go exploding the place.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I like you guys as people. I trust that if you kill someone, they deserve it.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Yes, that’s a body part, and sometimes it wanders around without your will.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Well, you didn’t marry me, you married my sister.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "When you wake up in a purple forest, you are no longer a sprout.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Follow the process, not the plan. (quote from Adam Savage on Tested)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I’m so hydrated I have fish in me.” (Quote from LoonyLoomworks on Twitch)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Go for the slow one! She bounces!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Daggers, and tentacles, and fire, oh my!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I am the vice president of panic and the president is missing.” (quote from a book of poems, called Space Struck, \"On the Train a Man Snatches My Book, Reads\" by Paige Lewis)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "She buffed the horse balls, gotcha.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "You had me until you showed me the evidence.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Because sometimes you tick the wrong box.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s like they’re little demons that get reactivated.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Stew in your own crock pot of misery.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I was the Lady Reaper!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why are the trees not screaming? [bonus if the next line is “this is weird”]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The bug sex list is better",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“A divide by zero error in the universe” (quote from kurkgsazat video “the most extreme things in the universe - ultimate guide to black holes.”)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Bald space nerd",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "This hula hoop will get you ripped!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He’s six five and charming, the bastard.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I'm honestly impressed how you are somehow absolutely wrong and completely right at the same time.\" (Quote from NaNo Las Vegas ML Kyo’s Roommate)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Our adorable little baking assassin.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t quite your daydream.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A unicorn in the lab, what are you going to do with that?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Zombie unicorn",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think I found my next…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What about shape shifter unicorns?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I brought you [character], but we’re not going to be able to get him up any stairs.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "She finds herself a werewolf husband. As one does.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "you're so crafty you make people\" [spoken by The Chained Nerd on Twitch, but they claimed can’t take credit]",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "Quote #32 \"My name is August. I pronounce it to rhyme with Cactus.\" ~Gaudrhin (quote from Twitch)",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "“There’s no ‘i’ in team, but there’s ‘con’ in economy” ~ Lyric from “The Fine Print” by The Stupendium",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I heard something. Don’t let it on the couch.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "No one likes to wear bras. They just hang on the dining room chairs.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The interesting thing about skin cancer…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Warning: Trespassers will be lightly engaged in polite conversation and possibly offered a small baked good.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Beware of dog. He likes tummy rubs and will be your friend forever.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My special skill: being aware my skills aren’t so special.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I came to [place] for a reason, I am sure.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s a meet cute, but for serial killers.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If they think I’m a [descriptor] because I’m wearing my mask, well, their right.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Here’s finished products. Please take them away from me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’ll distract you with it while I pet the snake.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Do you all want some elk facts?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’ve never been sucked into a whirlpool before.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We don’t want your luscious locks, I’m sorry.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I am squishier than mage armor.” (quote from LoonyLoomworks on Twitch)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“My brain is squishier than mage armor.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "All’s Well That Ends Well, I Guess: Like You’ve Never Heard It Before",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“What kind of [character] are you gonna buy?” - character is talking about paint.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“No more drug filled orgies, boys.”",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "Please re-boop.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Traffic here is cute, y’all.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you want to do a drug over the weekend and be fine by Monday, you should just do cocaine. [***We do not, nor ever will encourage drug use by actual persons, but your fictional characters have more leeway.***]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Being a biological creature. Messy, messy.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I’m going to take this train to get to this bank note.” (Quote from Semmeringbahn video on The Tim Traveler)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The car said, “this looks like home.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Tactically driving backward in high heels.” (Either a quote or a misquote of Adam Savage on Tested.)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Deeply weird, yet awesome.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Trees can be destroyed with bombs, and they still drop the wood.” (Quote from LoonyLoomworks on Twitch)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Something wicked this way comes,” (Quote from Shakespeare’s MacBeth)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Pants on head stupid.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Pet beavers.” Bonus points if it’s in the context of getting rid of a lot of downed trees.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The magic thing involves having people inside you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Apparently the final boss is the core of the planet!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Ow! You don’t have to headbutt me that hard.” [bonus points if not said to a cat or other pet.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Obey the beard.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I had a zombie crash down on my head.” [pause] “Get used to it, it happens a lot.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Does anyone know if there’s a bed in the shopping district?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Snake snacks at shake shack.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s about my bazonga donkers.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m pretty sure I’m still a toddler. I’m just fooling everybody.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s got the brain rot. It’s fine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So you can have a crafting blender and a food blender. Seems smart.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am a chaos demon.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I woke up on the wrong side of reality.” (Lyric from \"Young and a Menace\" by Fall Out Boy)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Would you like me to tickle your biscuit?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "As you sew, so shall you rip (out seams). as you type, so shall you typo (Quote from EliKwake on Twitch)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Yeet passengers into the void”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“All we need is ice cream and a hug.” (Lyric from \"Shut-Up and Smile\" by Bowling For Soup)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Next time she’s trapped in the bathroom washing her hands.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why do you have four bags of lipstick?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“For writing threatening messages on mirrors,” [character 1] “And only threatening messages,” [character 2] [bonus if related to lipstick]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He’s just a meat puppet like the rest of us.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I successfully mugged a creature for the first time.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“That’s why I like to shotgun my humor.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I was all ready to be high on my own brain chemistry, and then, nope, we’re taking a nap.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Big mean fish.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There’s a chicken on the rainbow.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I was thinking about your pelvic floor recently, [character].”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[Siegfried] jumped in the big box and [Tristain] wants to get in on that. [replace bracketed names as apropriate, bonus points if named are not pets]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I came to [place] for a reason, I am sure.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Magnus didn’t eat the kitten. It’s all good.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My car will not warn me. It will die from hunger. It’s done this in the past.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Am I eating plant ovaries? Is that what I’m doing?” ~character 1 “Yes, yes you are.” ~character 2",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Pedal faster, humanity!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You’re such a confident old white man, that’s my kind of energy right there.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I got a grant for it, let’s do it.”[{bonus points is someone responds with “I love scientists.”]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m getting a cat dose, it’s fine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I love when there’s doom music.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My very own eye-pocolypse.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’ve been to a monkey grave.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Oh, cool, a person with my brother’s name, but also a story where I had to answer my door with pepper spray, so buckle in.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s not a hobby. It’s the only way you have pants. (Quote from Behind the Bastards podcast episode: Behind the Insurrections - The Business Plot: When Rich Fascists Almost Took Over America)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I caught a motorcycle this big.” Bonus points if said by a character you wouldn’t associate with motorcycles.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Ripped flesh of the weeds.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you’ve every supplied someone with pants.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I approve of zombie horse mold.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Now we all have RAM power like a Dodge truck.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Because brains,” siad character1. “They're fat sacks that get electrocuted. It’s a miracle they work at all,” replies character2.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Only darkness on team mesh.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dragon surgery.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Do no harm. Take no shit.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "All of the tails.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I always knew that breaking ox knuckles would come in handy some day.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Mathematical palette cleanser.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "“I believe the probability of irreversible disintegration to be relatively low.” (quote ~Urianger, FF XIV)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s like if we chopped off your hand and it grew a new you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Humans should come with subtitles.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dual purpose owl collecting",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I’m short, bearded, and live in a basement apartment, so…”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m not sure how a playlist can be pumpkin spice flavored, but they nailed it.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Isn’t Twitter just carrier pigeons?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There is a plethora of dork in this house.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A church the meets in a bar.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“You gotta sell yourself!” Character 1. “No one is buying me!” Character 2.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Please don’t put cat flavors in my medicine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Show me some dash cam, baby!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Have shovel, will travel. [bonus if the response is, “Well, I have a minivan.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Character 1: “Character2, where are you?” Character 2: “I’m in your house.” Character 1: “You want to see my company room?” Character 2: “I’m in your tub, taking a bath.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m not feeling spreadsheet today. Vampires. I’m thinking vampires.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Wear a pool noodle or something, so I can wack people.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need to see you in a pool noodle with suspenders.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Balls on a bun.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Magnetic eyelashes",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You say that like I haven’t run into a wall today.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "let me make sure I'm in the right hole",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You know how much you have to bake your cats until there...you know...cooked.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The snake looks suspiciously like an ice cream sandwich.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think I would have remembered hot Jesus. It’s like smolder Christ.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why are you making noise!?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "And one day, I can have my very own bug mount.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am a goats milk away from a greenhouse.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need to remember the panko trick next time I have to panic cook a zucchini.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Brain is needed for food to work.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Current MAX limit is: unlimited. P.S. You do NOT have to sign up for the max limit.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Speaking of stoned, please tell me about…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I just assume your cats are stoned.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Technically emailing myself in [official place]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I was able to burn my candle even though the wick was dysfunctional.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I started sniffing something on camera thought I should explain...",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I did have a fever when I bought the unicorns.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "How do you open the bread without contaminating it with the radioactive material?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We want acknowledgement that our parts seep.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Transdimensional usery",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Black dragon cowgirl.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Fight me!” Character 1. “I will fight you! No, I won’t fight you, because you’ll kick my ass.” character 2.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We have a [name] on both signs of the cinnamon line.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "This is my nano scorpion.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I will let you name yourself.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The hungry people are delightful. OR The Hungary people are delightful.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[character or animal], sweety, that is not a helpful tale location.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Does Bot of Doom have sentience?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Now, I can't call it a \"pandemic\" because I got so used to \"panini.\" (quote from gummybearlife)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Tea dragons",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Oi! Write!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "These pants have new pants now.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Just met my step goal as I walked into my bus. Which is late.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I imagine all unicorns have perfect brains. (quote from Ellen_Longhorn)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Secret rainbow",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Rainbow lightning bolt",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m smart. I’m not observant.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "And there’s the cow. Alright friends…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“They killed their last person.” response/follow-up: “But it was consensual",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Positivity rants as cover for a super villain.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I didn’t think a word search would activate my feminism.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Sometimes animals try to die right when it’s time for lunch break. [bonus points if context is not a vet office]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We’re just chasing the dopamine, don’t ask questions.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Coffee or kitten rain would also be acceptable",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A car crashes into a typewriter. OR A typewriter crashes into a car.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My brain mold came.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t the poltergeists use their fists.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Is there also a feather? Oh, no, that’s just your ear.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[character] took down my walls.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I feel like the dragon is mocking me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Fully armed and operational ultimate vibrations.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Stop running into the moss balls.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "At the time, it was really sad for little pixel people.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m about to talk to a frog about going into a workshop.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Reusable sandwich",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Brew faster you fermented leaf bitch!” [note: this refers to tea taking too long to brew, so bonus points for any otehr usage]",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "“I neutered a dog for the first time in over a year...and I’m so excited.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "No! Damn it! I hate when I use the wrong vegetable!",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "I like the alien on your laptop.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The double D variant.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "No I can eat wallpaper…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Maybe they’re lovers?” Character1. “But that’s not how hawks work.” Character2",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You dug out my well and you poisoned my people!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Maybe it’s good, maybe it’s bad, but it’s going to be interesting.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Why is my butt buzzing?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I just shot you in the face by accident...I mean, not hard.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Oh, I can’t see. Something was electrocuting me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You may have unlocked new bits. Or new options on your bits.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It doesn’t help that it tastes like a basement.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Hmm. I should be careful with explosives here.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What doesn’t kill you mutates and tries again.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I don’t know what you’re doing, but I don’t want you doing it!”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They’re going to be my new neighbor, they’ll live in the swamp next door.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "And also, humans have to go to the bathroom.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I almost got my foom.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I cannot find the desk potato.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Personality traitors",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "every group needs a chaos hobbit",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "She’s incredibly charismatic…but she’s quite flaky.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s in a parking lot by the Bowl America. It’s the worst.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“If you don’t hear from me, my son/daughter’s boy/girlfriend murdered me,” Character 1 “It’s a mistake you only make once,” Character 2.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You can die from the paper planes?!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There are left shoulder cats and write shoulder cats.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It turns into a cuckoo clock, that’s what it is now.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Repurposed printer - turned into something else like a music box or a holiday decoration",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Include a spray cheese hand motion",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You know it’s time for lunch when you open the dog food and go “oh wow, that smells good, I’m really hungry.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "And then there were six.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you’re cussing out the paramedic, you’re probably going to be fine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You’re wonderful, but I lie a lot.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "...so assuming the car is foxed by then we'll be good.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What is the end goal of this fifteen color project? A giant yarn ball?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I don’t like that you can’t eat it.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Knit versus crochet wars",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If I was ever murdered, I would like it to be by contraption, possibly by duhicky, but preferably contraption.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I say something vague, and she responds to me in hairdresser, and then I say something else vague, and she responds with something else in hairdresser, and then she cuts my hair and it’s amazing.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That’s why you are in your wisdom booth, you’re trapped in there.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You give amazing eyebrow.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The Grand Cake Dragon",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Your cousin was a great evil stepmother.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Did you kill yourself too?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My cats are all interacting with themselves.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You don’t want the porch pirates to get your ponies.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You’re on a broom, so that’s not a problem.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You can’t be stuck in slime if you’re greasy.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’ve got an internet.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Good gracious great balls of blown glass.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A cracked cheesecake is a thermally shocked custard.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Pants? Are you afk?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There’s a ghost. He’s trying to shoot me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The internet functions like old school phone operators, so someone has to physically connect you to where you want to go. Bonus points if you can include a visual of some kind.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Everyone has to break the ship at some point.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What is [noun] for? What do you mean what’s it for? [bonus points if this is about something very not essential to life by general opinion, as the original noun was oxygen.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m in actual physical danger here!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You’ve seen my house!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Oh, yeah, there’s stuff in the hallway, I’ve been throwing things.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[Character] is just an alien farmer.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’m trying to make my soup submission for the dumpster fire.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We had most of the technology, but it wasn’t evil yet.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The sun is setting and the scary is happening.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’ve been asking for soap!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Squirrels at a rave.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Work smarter not harder. Have shovel, will travel.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I do have this ax.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "How is he at tangential conversations? Cause that’s how I role.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We have acquired a fixture they have decided to call an orifice.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Naming the orifice and agreeing how to swear at it is just the culture of the lab now.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Benjamin is a good name for an orifice.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you don’t do your science dishes correctly, your science could go bad.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I feel like drugs are the answer in this situation. [We in no way condone the using of illegal or not perscribed drugs for actual physical people, but characters are a different story.  Also, your drugs need not be illegal or even exotic.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "One of them in the big lamp shade.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "My apologies for the scandalous cat legs.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You are not allowed to lick yourself. That is prohibited.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Mystery ghost person haunting our zoom.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Pirate ship sailing is happening in the other room of my apartment.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I just need to check that our yeet machine is working.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There is something wrong with our yeet machine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s so hard to tell. What part of the world is real !?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Thank you for preheating the bathroom for me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I wish you dragons but not elves.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "As long as they didn’t roll them in cocaine before they shipped them… [As always, we do not condone or encourage the use of illegal drugs by actual people, please leave that to your fictional characters.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Character 1: “Why are human’s so fucking weird?” Character 2: Have you met us?”",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "This game needs laser pointers.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Things happened. You didn’t get the pregnant, you got the vampirism.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you're going to spend your animation budget, use it on the boys hugging.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Woops, I accidentally made a harem party.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Only dinner balls.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Only balls for dinner.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I identify as competent.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If I want to voodoo trap someone in my living room.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He is the manifestation of sus.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need a non-denominational neutral pronoun.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Buy me cheese fries and books. Don’t buy me drinks.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We have wax from Itsy’s bees.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“I think we’ve done all the help we can.” [Bonus points if said after they were NOT helpful.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Newt spell email read receipts",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I have ginger syrup and candied ginger made by a ginger.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "secret grilled chicken",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It’s a pit full of lesbians. She’s fine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I don’t trust strawberry blonds.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "She may or may not be the devil.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I feel like we have different definitions of heart warming.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You’re bigger than me but I think I could take you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "They glow at night, which may not be advisable, but should be enteraining.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Apparently I’m always happy to scuttle.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“A handful of cannon ball,” character one. “So one,” Character two.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Hand me that piano.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am lefting as hard as I can.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Like strangers on spring break, not like extended family, they'd try to kill each other.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Now I no longer look like I'm eating a ground hog.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think I am full of yarn with occasional bouts of squirrel.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "For these fish it's a low contact sport.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You think someone designed this?!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You must belong to the university, let’s return you.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Hobbit Mafia",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "50s Housewife Brigade, move out!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I confused the fuck out of my daffodils.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I press down on the paper like it's been trying to kill me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So, you're saying all your wheels are rubbed on one side?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Cat-sized moth",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I mean, yes, but why do people know this?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He got so excited he couldn't decide what to lick first.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He pushed you down the hill at the cemetery.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "carefully store the tongues",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I don't care about the coaster, but it comes with it's own fidget.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Soy sauce disaster",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Someone abandoned him by the coffee mugs.  They left him all alone, so I rescued him.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I’ve already picked up all the weapons from the sex shop.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "I don't want your charred corpse in my carpet.  Get out.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Character 1: \"Nothing is going right!\" Character 2: \"Try going left.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You know they're a teenager when they have weird hair choices.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[character]’s remedial horror movies.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "passive agressively craft",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Ninja who uses office supplies as weapons.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don’t upset the delicate internal imbalance of the little brown bug.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That’s not a normal lizard.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That’s what you hire a boy for. [bonus points if this is a very small and silly task like shuffling cards.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "And by houseboat we mean barrel.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "indestructible squirrel",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "limited murder",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Murder Unlimited LLC.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The Taming of the Do. [Include as title of a play.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Gecko vision",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Camels have humps. Leopard geckos have big booties.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Duress on a stick.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I can get a fish out of the graveyard.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It is important to know where one’s unicorn is at all times.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I lost track of myself.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The wouldn’t agree with all the micro-plastics already swimming around in me.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "dinner and the glorious after nap. (Quote from a card in Vast: The Crystal Cave)",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Sacrifice this demon to cause a damage to…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Boldly going where the signal has not been since we were four.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "we ate your babies. Make more.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“However, development stalled when he was murdered.” Quoted from: https://en.m.wikipedia.org/wiki/Edisto_Beach,_South_Carolina on 5/26/2022.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "larval amusement park",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Oh, our doom is approaching.”  [Bonus points if said in a positive or cheerful way.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“No, you have turned yourself off.” [Bonus points if it’s about an electronic or magical thing.]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Do you have any paper.\"  \"No, I'm a Millennial, why would I have paper?\" [world apropriate generation/group ID substituations encouraged]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A vegan doorless apartment?  Heck no!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "OMG, they gave me an intern, and I had to monologue for hours.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It's okay because he mailed me an intern on Wednesday.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I have no idea where I am.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It's loud.  It's bright.  It's pretty.  Someone could lose a hand.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Are you rear deck helming?!?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The lines between vampire, pirate, and cowboy are dim.  [quoted from text in this tiktok: https://www.tiktok.com/t/ZTd3LgFd5/?k=1], on 6/8/2022",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Nocturnal Shenanigans. [concept allowed but direct use of phrase gets a bonus]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“Our brains are made out of meat, and our bodies experience thoughts.” - John Green, The Anthropocene Reviewed, page 142",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I want to un-alive myself.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Alligator formal wear [bonus points if the alligator is wearing the formal wear]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I often carry brimstone in my pockets.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need to switch over from cats to raising chipmunks.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I think I've got bones in one of the cabinets.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Picture frames for the picture frame god.  Doilies for the doily cloth throne.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Bob’s Discount Pipettes.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I gotta go meet the ace chick at the hardware store.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You don't ask the oracles to get out of the turtle!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It's 10am on a Saturday and I've already sold my soul four times.  How is everyone else doing?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "When you stick the cat's tail in your mouth,\" says Character1.  \"Well, that's an idea,\" says Character2.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[name], no!  Don't lick the books!",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I've got contact nerd, it's fine.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you chew on the pages I won't know the rules.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He was 58 when he died, and he moved 52 times in his life.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Child returns from camp to find parents moved and forgot to tell them.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "[speaking about a great aunt] \"She was not a nice lady.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Do you want to see my flying hippo.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Talking about murder which reminds me…",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Skeletons don’t have crotches. That’s how I missed.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Occasionally, I'll get bored so I'll go logging.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Someone had a really tough conversation with that wall.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I got an A on the painting though.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "We've been standing in this hallway for an hour and I think my boss just did a lap.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Because someone didn't unclamp a clamp...",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am 5'5\", you could break me in half.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Drugs and murder none stop.  Business as usual.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I have a small box of surprise skulls.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Teleport the panda.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Always take a top piece if you need a bottom.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "Panda May I?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Murder Crafting Club",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "the sacredness of Chill",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "colour, shape, and tentacle configurations [quoted from the update notes for No Man's Sky - ENDURANCE]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I go outside and feel like a Pomeranian in a rice cooker.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Me and the elf and the potato.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "What does 'banana pants' mean to you?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There are a lot of villain potatoes in this game.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need my pants!\" [bonus points if said either desperately or in relation to not an irl pair of pants]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "A hammock, a telescope, and a pile of Dr. Seuss books.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That's something you always get in halves.  Donuts.  You don't get a whole one until I put it together.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Well, I didn't mean to shoot that into your butt.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You can fit a lot of swords in a Camry\" [courtesy of zyphax's knitting group]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "“This comes out of a bottle.  You can fake this, and I do.”",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That grinding you hear when you do that is a paradigm shifting without a clutch. [courtesy of Reka's partner]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Is it safe to drink and soap?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "champion of the parish",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "None of us can fly.  Why are we taking this route?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "D6 of doom. [can substitute story appropriate item for the six-sided die (D6).]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "ethically compensated cozy cottage gay syndicalism",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "angry pixie electrons.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "under desk hammock",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am the bicycle mechanic you want for the apocalypse. [Quote of Adam Savage in Tested video Adam Savage One Day Builds: Vintage Bicycle Restoration!]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I heard drunk orange people",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "So, do you have a stick?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If you saw that amount of gluteal jiggling, wouldn't you?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Where are we, and why is it so purple?",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Dryer that eats clothes.  [bonus points the more fantastical it is]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I am an adult and I can do that.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Key Lime Pie [or appropriate dessert equivalent] for breakfast.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "There are regions of snow bird accumulation in FL.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "That’s what we’d do when I was in middle school and my mom didn’t want to write the sex scenes for her book.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "I've always wanted to tie someone up.  [bonus points the more ridiculous/hilarious the situation is]",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I can't remember the beginning of my sentence because cat.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I need to go put my murder heads in my murder box.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Am I cursed?  No, but I am sticky.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "the puzzle solving magician",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I drew him a goatee and he eats things.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Ass pirates, gotta love 'em.",
+    "nsfw": "TRUE"
+  },
+  {
+    "prompt": "They are indestructible and very fast.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "If I could pick a zodiac animal, I'd want to be year of the cockroach.  I know that's not a thing, but they're indestructible and very fast.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "It looks like a unicorn murder scene.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "You pull a sword from the cane, and rather than wield it, you pull a magic wand from the sword.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "He knits really weird.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Don't knit shame your husband.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "I might be the best toilet plunger in the land.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "25-year-old, two-headed tortoise",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "The kidney disease is just in there for flavor.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Sometimes there’s loot in the potty.",
+    "nsfw": "FALSE"
+  },
+  {
+    "prompt": "Attach the wires to the Christmas tree.\"  [Bonus points if said in an urgent fashion.]",
+    "nsfw": "FALSE"
   }
 ]
