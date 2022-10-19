@@ -9,6 +9,7 @@
 // Create a persistent object that contains the prompt list.
 const prompts = {}
 prompts.all = require('../resources/prompts.json')
+console.log("Total prompts: " + prompts.all.length)
 // Create filtered lists
 prompts.sfw = prompts.all.filter(n => !n.nsfw)
 console.log("Total SFW prompts: " + prompts.sfw.length)
