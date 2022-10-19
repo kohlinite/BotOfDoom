@@ -11,7 +11,8 @@ const prompts = {}
 prompts.all = require('../resources/prompts.json')
 // Create filtered lists
 prompts.sfw = prompts.all.filter(n => !n.nsfw)
-prompts.nsfw = prompts.all.filter(n => n.nsfw)
+console.log(prompts.sfw.length)
+// prompts.nsfw = prompts.all.filter(n => n.nsfw)
 
 // Old-style bot command
 module.exports = {
