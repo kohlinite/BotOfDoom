@@ -116,3 +116,4 @@ dist
 ### Discord.js
 .eslintrc.json
 index.js.bak
+/.vs
