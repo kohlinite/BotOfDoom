@@ -32,7 +32,12 @@ client.on('message', message => {
 
   // Arguments check
   if (command.args && !args.length) {
-    return message.channel.send(`You didn't provide any arguments, ${message.author}!`)
+    try {
+      return message.channel.send(`You didn't provide any arguments, ${message.author}!`)
+  
+    } catch (error) {
+      console.error(error)
+    }  
   }
 
   // Cooldowns check
@@ -49,7 +54,11 @@ client.on('message', message => {
 
     if (now < expirationTime) {
       const timeLeft = (expirationTime - now) / 1000
-      return message.reply(`please wait ${timeLeft.toFixed(1)} more seconds`)
+      try {
+        return message.reply(`please wait ${timeLeft.toFixed(1)} more seconds`)
+      } catch (error) {
+        console.error(error)
+      }
     }
   }
 
