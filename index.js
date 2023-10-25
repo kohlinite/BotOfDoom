@@ -32,7 +32,12 @@ client.on('message', message => {
 
   // Arguments check
   if (command.args && !args.length) {
-    return message.channel.send(`You didn't provide any arguments, ${message.author}!`)
+    try {
+      return message.channel.send(`You didn't provide any arguments, ${message.author}!`)
+  
+    } catch (error) {
+      console.error(error)
+    }  
   }
 
   // Cooldowns check
@@ -42,14 +47,18 @@ client.on('message', message => {
 
   const now = Date.now()
   const timestamps = cooldowns.get(command.name)
-  const cooldownAmount = (command.cooldown || 0.5) * 1000
+  const cooldownAmount = (command.cooldown || 1.0) * 1000
 
   if (timestamps.has(message.author.id)) {
     const expirationTime = timestamps.get(message.author.id) + cooldownAmount
 
     if (now < expirationTime) {
       const timeLeft = (expirationTime - now) / 1000
-      return message.reply(`please wait ${timeLeft.toFixed(1)} more seconds`)
+      try {
+        return message.reply(`please wait ${timeLeft.toFixed(1)} more seconds`)
+      } catch (error) {
+        console.error(error)
+      }
     }
   }
 
