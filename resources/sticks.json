@@ -80,7 +80,7 @@
  {
    "difficulty": "Very Easy",
    "name": "Monarchy",
-   "description": "ML's Choice",
+   "description": "Host's Choice",
    "special": true
  },
  {
@@ -212,7 +212,7 @@
  {
    "difficulty": "Easy",
    "name": "Monarchy",
-   "description": "ML's Choice",
+   "description": "Host's Choice",
    "special": true
  },
  {
@@ -350,7 +350,7 @@
  {
    "difficulty": "Medium",
    "name": "Monarchy",
-   "description": "ML's Choice",
+   "description": "Host's Choice",
    "special": true
  },
  {
@@ -512,7 +512,7 @@
  {
    "difficulty": "Hard",
    "name": "Monarchy",
-   "description": "ML's Choice",
+   "description": "Host's Choice",
    "special": true
  },
  {
@@ -680,7 +680,7 @@
  {
    "difficulty": "Very Hard",
    "name": "Monarchy",
-   "description": "ML's Choice",
+   "description": "Host's Choice",
    "special": true
  },
  {

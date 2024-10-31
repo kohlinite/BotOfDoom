@@ -2,7 +2,7 @@
  * 
  * Initial implementation.  Will eventually interface with a master prompt list
  * that will be routinely pulled from the master prompt file maintained by
- * Nano-RDU ML Reka.
+ * Host Reka.
  * 
  */
 

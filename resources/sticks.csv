@@ -12,7 +12,7 @@ very easy,325,words,no
 very easy,350,words,no
 very easy,375,words,no
 very easy,400,words,no
-very easy,Monarchy,ML's Choice,yes
+very easy,Monarchy,Host's Choice,yes
 very easy,Colony,Stranger's Choice,yes
 very easy,Democracy,Group's Choice,yes
 very easy,Unlucky,"Draw twice, take the more difficult",yes
@@ -34,7 +34,7 @@ easy,450,words,no
 easy,475,words,no
 easy,500,words,no
 easy,525,words,no
-easy,Monarchy,ML's Choice,yes
+easy,Monarchy,Host's Choice,yes
 easy,Colony,Stranger's Choice,yes
 easy,Democracy,Group's Choice,yes
 easy,Unlucky,"Draw twice, take the more difficult",yes
@@ -57,7 +57,7 @@ medium,775,words,no
 medium,800,words,no
 medium,825,words,no
 medium,850,words,no
-medium,Monarchy,ML's Choice,yes
+medium,Monarchy,Host's Choice,yes
 medium,Colony,Stranger's Choice,yes
 medium,Democracy,Group's Choice,yes
 medium,Unlucky,"Draw twice, take the more difficult",yes
@@ -84,7 +84,7 @@ hard,1175,words,no
 hard,1200,words,no
 hard,1225,words,no
 hard,1250,words,no
-hard,Monarchy,ML's Choice,yes
+hard,Monarchy,Host's Choice,yes
 hard,Colony,Stranger's Choice,yes
 hard,Democracy,Group's Choice,yes
 hard,Unlucky,"Draw twice, take the more difficult",yes
@@ -112,7 +112,7 @@ very hard,1575,words,no
 very hard,1600,words,no
 very hard,1625,words,no
 very hard,1650,words,no
-very hard,Monarchy,ML's Choice,yes
+very hard,Monarchy,Host's Choice,yes
 very hard,Colony,Stranger's Choice,yes
 very hard,Democracy,Group's Choice,yes
 very hard,Unlucky,"Draw twice, take the more difficult",yes
