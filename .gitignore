@@ -117,3 +117,4 @@ dist
 .eslintrc.json
 index.js.bak
 /.vs
+.DS_Store
